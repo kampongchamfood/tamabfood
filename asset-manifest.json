@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tamabfood/static/css/main.858265fb.css",
-    "main.js": "/tamabfood/static/js/main.dffc5a79.js",
+    "main.js": "/tamabfood/static/js/main.262efe4b.js",
     "index.html": "/tamabfood/index.html",
     "main.858265fb.css.map": "/tamabfood/static/css/main.858265fb.css.map",
-    "main.dffc5a79.js.map": "/tamabfood/static/js/main.dffc5a79.js.map"
+    "main.262efe4b.js.map": "/tamabfood/static/js/main.262efe4b.js.map"
   },
   "entrypoints": [
     "static/css/main.858265fb.css",
-    "static/js/main.dffc5a79.js"
+    "static/js/main.262efe4b.js"
   ]
 }
