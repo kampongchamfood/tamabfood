@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tamabfood/static/css/main.858265fb.css",
+    "main.js": "/tamabfood/static/js/main.edf6ceb2.js",
+    "index.html": "/tamabfood/index.html",
+    "main.858265fb.css.map": "/tamabfood/static/css/main.858265fb.css.map",
+    "main.edf6ceb2.js.map": "/tamabfood/static/js/main.edf6ceb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858265fb.css",
+    "static/js/main.edf6ceb2.js"
+  ]
+}
